@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\bin\Debug\net8.0-windows\Tutorial_2_2.exe
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\bin\Debug\net8.0-windows\Tutorial_2_2.deps.json
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\bin\Debug\net8.0-windows\Tutorial_2_2.runtimeconfig.json
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\bin\Debug\net8.0-windows\Tutorial_2_2.dll
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\bin\Debug\net8.0-windows\Tutorial_2_2.pdb
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.Form1.resources
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.sourcelink.json
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.dll
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\refint\Tutorial_2_2.dll
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.pdb
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\Tutorial_2_2.genruntimeconfig.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_09_17\Tutorial_2_2\Tutorial_2_2\obj\Debug\net8.0-windows\ref\Tutorial_2_2.dll
