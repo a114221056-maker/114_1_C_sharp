@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tTurtorial_2_5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ea95e2cd7bae54561167b8c8880710264c542e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5de3278c6fba27ee275cebcf8dd4dff5763e9853")]
 [assembly: System.Reflection.AssemblyProductAttribute("tTurtorial_2_5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tTurtorial_2_5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

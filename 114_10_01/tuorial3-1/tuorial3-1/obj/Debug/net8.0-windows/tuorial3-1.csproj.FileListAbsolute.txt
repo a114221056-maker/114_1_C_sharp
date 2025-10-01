@@ -1,0 +1,7 @@
+C:\Users\m303\Desktop\114_1_C_sharp\114_10_01\tuorial3-1\tuorial3-1\obj\Debug\net8.0-windows\tuorial3_1.Form1.resources
+C:\Users\m303\Desktop\114_1_C_sharp\114_10_01\tuorial3-1\tuorial3-1\obj\Debug\net8.0-windows\tuorial3-1.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_10_01\tuorial3-1\tuorial3-1\obj\Debug\net8.0-windows\tuorial3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_sharp\114_10_01\tuorial3-1\tuorial3-1\obj\Debug\net8.0-windows\tuorial3-1.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_10_01\tuorial3-1\tuorial3-1\obj\Debug\net8.0-windows\tuorial3-1.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_sharp\114_10_01\tuorial3-1\tuorial3-1\obj\Debug\net8.0-windows\tuorial3-1.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_10_01\tuorial3-1\tuorial3-1\obj\Debug\net8.0-windows\tuorial3-1.sourcelink.json
