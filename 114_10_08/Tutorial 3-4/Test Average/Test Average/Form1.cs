@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Test_Average
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void calculateButton_Click(object sender, EventArgs e)
+        {
+            // 嘗試將輸入轉換為 double，若失敗則顯示錯誤訊息
+            double test1, test2, test3, average;
+            if (double.TryParse(test1TextBox.Text, out test1) &&
+                double.TryParse(test2TextBox.Text, out test2) &&
+                double.TryParse(test3TextBox.Text, out test3))
+            {
+                average = (test1 + test2 + test3) / 3.0;
+                averageLabel.Text = average.ToString("F2");
+            }
+            else
+            {
+                MessageBox.Show("請輸入有效的數字分數。", "輸入錯誤", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                averageLabel.Text = "0.00";
+            }
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        { 
+            // Clear the input and output controls.
+            test1TextBox.Text = "";
+            test2TextBox.Text = "";
+            test3TextBox.Text = "";
+            averageLabel.Text = "";
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
