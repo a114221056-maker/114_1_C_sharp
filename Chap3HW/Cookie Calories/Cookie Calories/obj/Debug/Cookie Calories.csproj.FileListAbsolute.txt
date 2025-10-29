@@ -1,0 +1,10 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\obj\Debug\Cookie_Calories.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\obj\Debug\Cookie_Calories.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap3HW\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.pdb

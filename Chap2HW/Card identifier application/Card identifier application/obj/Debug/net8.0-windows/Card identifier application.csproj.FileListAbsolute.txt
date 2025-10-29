@@ -1,0 +1,54 @@
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.exe
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.deps.json
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.runtimeconfig.json
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.dll
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.pdb
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card_identifier_application.Form1.resources
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card_identifier_application.Properties.Resources.resources
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.csproj.GenerateResource.cache
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.AssemblyInfo.cs
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.sourcelink.json
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.dll
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\refint\Card identifier application.dll
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.pdb
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.genruntimeconfig.cache
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\ref\Card identifier application.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.deps.json
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.runtimeconfig.json
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card_identifier_application.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card_identifier_application.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.sourcelink.json
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\refint\Card identifier application.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.genruntimeconfig.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01_Homework\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\ref\Card identifier application.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.deps.json
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.runtimeconfig.json
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\bin\Debug\net8.0-windows\Card identifier application.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card_identifier_application.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card_identifier_application.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.sourcelink.json
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\refint\Card identifier application.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\Card identifier application.genruntimeconfig.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Card identifier application\Card identifier application\obj\Debug\net8.0-windows\ref\Card identifier application.dll

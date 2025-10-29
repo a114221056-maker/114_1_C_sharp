@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card identifier application", "Card identifier application\Card identifier application.csproj", "{01244803-C07E-49AA-BF67-5F69FAF8CDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01244803-C07E-49AA-BF67-5F69FAF8CDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01244803-C07E-49AA-BF67-5F69FAF8CDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01244803-C07E-49AA-BF67-5F69FAF8CDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01244803-C07E-49AA-BF67-5F69FAF8CDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFA555AF-C529-4B08-80A6-9E48955C4F41}
+	EndGlobalSection
+EndGlobal

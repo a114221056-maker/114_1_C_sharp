@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.exe
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.deps.json
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.runtimeconfig.json
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.dll
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.pdb
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads_or_Tails.exitButton.resources
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads_or_Tails.Properties.Resources.resources
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.csproj.GenerateResource.cache
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.AssemblyInfo.cs
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.sourcelink.json
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.dll
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\refint\Heads or Tails.dll
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.pdb
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.genruntimeconfig.cache
+C:\Users\User\Desktop\114_1_C_Sharp\114_10_01_Homework\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\ref\Heads or Tails.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.deps.json
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.runtimeconfig.json
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\bin\Debug\net8.0-windows\Heads or Tails.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads_or_Tails.exitButton.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads_or_Tails.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.sourcelink.json
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\refint\Heads or Tails.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\Heads or Tails.genruntimeconfig.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\Chap2HW\Heads or Tails\Heads or Tails\obj\Debug\net8.0-windows\ref\Heads or Tails.dll
