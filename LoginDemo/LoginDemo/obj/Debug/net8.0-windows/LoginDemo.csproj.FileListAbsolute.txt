@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\bin\Debug\net8.0-windows\LoginDemo.exe
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\bin\Debug\net8.0-windows\LoginDemo.deps.json
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\bin\Debug\net8.0-windows\LoginDemo.runtimeconfig.json
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\bin\Debug\net8.0-windows\LoginDemo.dll
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\bin\Debug\net8.0-windows\LoginDemo.pdb
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.Form1.resources
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.sourcelink.json
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.dll
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\refint\LoginDemo.dll
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.pdb
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\LoginDemo.genruntimeconfig.cache
+C:\Users\m303\Desktop\114_1_C_sharp\LoginDemo\LoginDemo\obj\Debug\net8.0-windows\ref\LoginDemo.dll

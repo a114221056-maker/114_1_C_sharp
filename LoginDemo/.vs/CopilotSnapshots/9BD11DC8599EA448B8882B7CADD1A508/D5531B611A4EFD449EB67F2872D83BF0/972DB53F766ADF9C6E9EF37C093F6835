@@ -1,0 +1,29 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace LoginDemo
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void buttonCheck_Click(object sender, EventArgs e)
+        {
+            // simple check: account == "user" and password == "pass"
+            var acc = textBoxAccount.Text.Trim();
+            var pwd = textBoxPassword.Text;
+
+            if (acc == "user" && pwd == "pass")
+            {
+                labelResult.Text = "登入成功";
+            }
+            else
+            {
+                labelResult.Text = "帳號或密碼錯誤";
+            }
+        }
+    }
+}

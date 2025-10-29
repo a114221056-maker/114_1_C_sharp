@@ -1,0 +1,122 @@
+﻿namespace LoginDemo
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Label labelAccount;
+        private System.Windows.Forms.Label labelPassword;
+        private System.Windows.Forms.TextBox textBoxAccount;
+        private System.Windows.Forms.TextBox textBoxPassword;
+        private System.Windows.Forms.Button buttonCheck;
+        private System.Windows.Forms.Label labelResult;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.labelAccount = new System.Windows.Forms.Label();
+            this.labelPassword = new System.Windows.Forms.Label();
+            this.textBoxAccount = new System.Windows.Forms.TextBox();
+            this.textBoxPassword = new System.Windows.Forms.TextBox();
+            this.buttonCheck = new System.Windows.Forms.Button();
+            this.labelResult = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // labelAccount
+            // 
+            this.labelAccount.AutoSize = true;
+            this.labelAccount.Font = new System.Drawing.Font("Segoe UI", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.labelAccount.Location = new System.Drawing.Point(40, 40);
+            this.labelAccount.Name = "labelAccount";
+            this.labelAccount.Size = new System.Drawing.Size(110, 40);
+            this.labelAccount.TabIndex = 0;
+            this.labelAccount.Text = "帳號：";
+            // 
+            // labelPassword
+            // 
+            this.labelPassword.AutoSize = true;
+            this.labelPassword.Font = new System.Drawing.Font("Segoe UI", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.labelPassword.Location = new System.Drawing.Point(40, 110);
+            this.labelPassword.Name = "labelPassword";
+            this.labelPassword.Size = new System.Drawing.Size(110, 40);
+            this.labelPassword.TabIndex = 1;
+            this.labelPassword.Text = "密碼：";
+            // 
+            // textBoxAccount
+            // 
+            this.textBoxAccount.Font = new System.Drawing.Font("Segoe UI", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.textBoxAccount.Location = new System.Drawing.Point(160, 36);
+            this.textBoxAccount.Name = "textBoxAccount";
+            this.textBoxAccount.Size = new System.Drawing.Size(420, 47);
+            this.textBoxAccount.TabIndex = 2;
+            // 
+            // textBoxPassword
+            // 
+            this.textBoxPassword.Font = new System.Drawing.Font("Segoe UI", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.textBoxPassword.Location = new System.Drawing.Point(160, 106);
+            this.textBoxPassword.Name = "textBoxPassword";
+            this.textBoxPassword.Size = new System.Drawing.Size(420, 47);
+            this.textBoxPassword.TabIndex = 3;
+            this.textBoxPassword.UseSystemPasswordChar = true;
+            // 
+            // buttonCheck
+            // 
+            this.buttonCheck.Font = new System.Drawing.Font("Segoe UI", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.buttonCheck.Location = new System.Drawing.Point(40, 190);
+            this.buttonCheck.Name = "buttonCheck";
+            this.buttonCheck.Size = new System.Drawing.Size(140, 60);
+            this.buttonCheck.TabIndex = 4;
+            this.buttonCheck.Text = "檢查";
+            this.buttonCheck.UseVisualStyleBackColor = true;
+            this.buttonCheck.Click += new System.EventHandler(this.buttonCheck_Click);
+            // 
+            // labelResult
+            // 
+            this.labelResult.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.labelResult.Font = new System.Drawing.Font("Segoe UI", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.labelResult.Location = new System.Drawing.Point(200, 190);
+            this.labelResult.Name = "labelResult";
+            this.labelResult.Size = new System.Drawing.Size(380, 60);
+            this.labelResult.TabIndex = 5;
+            this.labelResult.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // Form1
+            // 
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(600, 280);
+            this.Controls.Add(this.labelResult);
+            this.Controls.Add(this.buttonCheck);
+            this.Controls.Add(this.textBoxPassword);
+            this.Controls.Add(this.textBoxAccount);
+            this.Controls.Add(this.labelPassword);
+            this.Controls.Add(this.labelAccount);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+        }
+
+        #endregion
+    }
+}

@@ -1,0 +1,35 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace LoginDemo
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void buttonCheck_Click(object sender, EventArgs e)
+        {
+             string account = textBoxAccount.Text.Trim();
+             string password = textBoxPassword.Text;
+
+            // 檢查帳號與密碼是否正確（此處示範用範例帳密 user / pass）
+            if (account == "user" && password == "pass")
+            {
+                labelResult.Text = "登入成功";
+            }
+            else
+            {
+                labelResult.Text = "帳號或密碼錯誤";
+            }
+        }
+
+        private void textBoxAccount_TextChanged(object sender, EventArgs e)
+        {
+            // 使用者修改帳號時清除先前結果
+            labelResult.Text = string.Empty;
+        }
+    }
+}

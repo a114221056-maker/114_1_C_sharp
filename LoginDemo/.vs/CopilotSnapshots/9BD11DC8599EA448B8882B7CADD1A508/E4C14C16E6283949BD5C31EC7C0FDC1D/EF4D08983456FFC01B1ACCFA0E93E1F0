@@ -1,0 +1,31 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace LoginDemo
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void buttonCheck_Click(object sender, EventArgs e)
+        {
+             string account = textBoxAccount.Text;
+              string password = textBoxPassword.Text;
+            if ((string.Compare(password,)
+            {
+                
+            }
+
+        }
+
+        private void textBoxAccount_TextChanged(object sender, EventArgs e)
+        {
+        
+           
+
+        }
+    }
+}
