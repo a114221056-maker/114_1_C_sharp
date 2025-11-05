@@ -1,0 +1,7 @@
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\RadioButtonDemo\RadioButtonDemo\obj\Debug\net8.0-windows\RadioButtonDemo.Form1.resources
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\RadioButtonDemo\RadioButtonDemo\obj\Debug\net8.0-windows\RadioButtonDemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\RadioButtonDemo\RadioButtonDemo\obj\Debug\net8.0-windows\RadioButtonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\RadioButtonDemo\RadioButtonDemo\obj\Debug\net8.0-windows\RadioButtonDemo.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\RadioButtonDemo\RadioButtonDemo\obj\Debug\net8.0-windows\RadioButtonDemo.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\RadioButtonDemo\RadioButtonDemo\obj\Debug\net8.0-windows\RadioButtonDemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\RadioButtonDemo\RadioButtonDemo\obj\Debug\net8.0-windows\RadioButtonDemo.sourcelink.json

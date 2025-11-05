@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\bin\Debug\net8.0-windows\CheckBoxDemo.exe
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\bin\Debug\net8.0-windows\CheckBoxDemo.deps.json
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\bin\Debug\net8.0-windows\CheckBoxDemo.runtimeconfig.json
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\bin\Debug\net8.0-windows\CheckBoxDemo.dll
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\bin\Debug\net8.0-windows\CheckBoxDemo.pdb
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.Form1.resources
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.sourcelink.json
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.dll
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\refint\CheckBoxDemo.dll
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.pdb
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\CheckBoxDemo.genruntimeconfig.cache
+C:\Users\m303\Desktop\114_1_C_sharp\114_11_05\CheckBoxDemo\obj\Debug\net8.0-windows\ref\CheckBoxDemo.dll
